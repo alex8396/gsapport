@@ -1,28 +1,20 @@
-# gsap2023
-
-#GSAP Parallax Effect
-<h3>유투브 재생 목록</h3>
-<ul class="refer5">
-    <li>https://www.youtube.com/playlist?list=PL4UVBBIc6giL8-6jvrClimg0cFL-Muqiq</li>
-</ul>
-
 <h3>샘플 예제</h3>
 <ul class="refer5">
-    <li>https://webstoryboy.github.io/gsap2023/gsap01.html</li>
-    <li>https://webstoryboy.github.io/gsap2023/gsap02.html</li>
-    <li>https://webstoryboy.github.io/gsap2023/gsap03.html</li>
-    <li>https://webstoryboy.github.io/gsap2023/gsap04.html</li>
-    <li>https://webstoryboy.github.io/gsap2023/gsap05.html</li>
-    <li>https://webstoryboy.github.io/gsap2023/gsap06.html</li>
-    <li>https://webstoryboy.github.io/gsap2023/gsap07.html</li>
-    <li>https://webstoryboy.github.io/gsap2023/gsap08.html</li>
-    <li>https://webstoryboy.github.io/gsap2023/gsap09.html</li>
-    <li>https://webstoryboy.github.io/gsap2023/gsap10.html</li>
-    <li>https://webstoryboy.github.io/gsap2023/gsap11.html</li>
-    <li>https://webstoryboy.github.io/gsap2023/gsap12.html</li>
-    <li>https://webstoryboy.github.io/gsap2023/gsap13.html</li>
-    <li>https://webstoryboy.github.io/gsap2023/gsap14.html</li>
-    <li>https://webstoryboy.github.io/gsap2023/gsap15.html</li>
+    <li>https://alex8396.github.io/gsapport/gsap01.html</li>
+    <li>https://alex8396.github.io/gsapport/gsap02.html</li>
+    <li>https://alex8396.github.io/gsapport/gsap03.html</li>
+    <li>https://alex8396.github.io/gsapport/gsap04.html</li>
+    <li>https://alex8396.github.io/gsapport/gsap05.html</li>
+    <li>https://alex8396.github.io/gsapport/gsap06.html</li>
+    <li>https://alex8396.github.io/gsapport/gsap07.html</li>
+    <li>https://alex8396.github.io/gsapport/gsap08.html</li>
+    <li>https://alex8396.github.io/gsapport/gsap09.html</li>
+    <li>https://alex8396.github.io/gsapport/gsap10.html</li>
+    <li>https://alex8396.github.io/gsapport/gsap11.html</li>
+    <li>https://alex8396.github.io/gsapport/gsap12.html</li>
+    <li>https://alex8396.github.io/gsapport/gsap13.html</li>
+    <li>https://alex8396.github.io/gsapport/gsap14.html</li>
+    <li>https://alex8396.github.io/gsapport/gsap15.html</li>
 </ul>
 
 
